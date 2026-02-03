@@ -1,0 +1,32 @@
+
+
+.container {
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: #f9f9f9; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+  }
+  
+  .profilePicture {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-bottom: 20px; 
+  }
+  
+  .title {
+    font-size: 2rem; 
+    color: #333; 
+    margin-bottom: 15px; 
+  }
+  
+  .description {
+    font-size: 1rem; 
+    color: #555; 
+    line-height: 1.6; 
+    margin-bottom: 15px;
+  }
